@@ -2,7 +2,7 @@
 
 - meu nome é Kelvyn Gustavo
   
-- estou estudando na Arura
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos mus projetos desenvolvidos
 
@@ -10,4 +10,4 @@
 
 - 00001117107607@al.educacao.sp.gov.br
 
- ![](https://media1.tenor.com/m/EkTCtB-0hncAAAAd/the-rock-eyebrow-the-rock-sus.gif)
+![](https://media1.tenor.com/m/6uPXAvYxkNwAAAAC/the-simpsons-homer-simpson.gif)
